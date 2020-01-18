@@ -1,0 +1,52 @@
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\bin\Debug\MyCoffee.exe.config
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\bin\Debug\MyCoffee.exe
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\bin\Debug\MyCoffee.pdb
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csprojAssemblyReference.cache
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\obj\Debug\MyCoffee.Properties.Resources.resources
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csproj.GenerateResource.cache
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\obj\Debug\MyCoffee.exe
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\obj\Debug\MyCoffee.pdb
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormStaff.resources
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormLogin.resources
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormAccountInfo.resources
+C:\Users\Hoang Kim\Desktop\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormHistoryBill.resources
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\bin\Debug\MyCoffee.exe.config
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\bin\Debug\MyCoffee.exe
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\bin\Debug\MyCoffee.pdb
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormHistoryBill.resources
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormStaff.resources
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormLogin.resources
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormAccountInfo.resources
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.Properties.Resources.resources
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csproj.GenerateResource.cache
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.exe
+C:\Users\DELL\Dropbox\[181]\2_OOP\Assignment\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.pdb
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\bin\Debug\MyCoffee.exe.config
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\bin\Debug\MyCoffee.exe
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\bin\Debug\MyCoffee.pdb
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csprojAssemblyReference.cache
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormHistoryBill.resources
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormStaff.resources
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormLogin.resources
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormAccountInfo.resources
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.Properties.Resources.resources
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csproj.GenerateResource.cache
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.exe
+C:\Users\Hoang Kim\Desktop\MyCoffe10_11_2018\MyCoffee\MyCoffee\obj\Debug\MyCoffee.pdb
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\bin\Debug\MyCoffee.exe.config
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\bin\Debug\MyCoffee.exe
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\bin\Debug\MyCoffee.pdb
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csprojAssemblyReference.cache
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormHistoryBill.resources
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormStaff.resources
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormLogin.resources
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\obj\Debug\MyCoffee.FormAccountInfo.resources
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\obj\Debug\MyCoffee.Properties.Resources.resources
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csproj.GenerateResource.cache
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\obj\Debug\MyCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\obj\Debug\MyCoffee.exe
+C:\Users\Hoang Kim\Desktop\MyCoffee_v1.0\MyCoffee\MyCoffee\obj\Debug\MyCoffee.pdb

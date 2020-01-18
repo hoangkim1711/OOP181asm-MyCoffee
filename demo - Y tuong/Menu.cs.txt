@@ -1,0 +1,78 @@
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MyCoffee.DTO
+{
+    //trung gian bill 
+    public class Menu
+    {
+        public Menu(string itemId, string itemName, int quantity, float price, float totalPrice = 0)
+        {
+            this.ITEMID = itemId;
+            this.ITEMNAME = itemName;
+            this.QUANTITY = quantity;
+            this.PRICE = price;
+            this.TOTALPRICE = quantity * price;
+        }
+
+        public Menu()
+        {
+            this.ITEMID = "null";
+            this.ITEMNAME = "null";
+            this.QUANTITY = 0;
+            this.PRICE = 0;
+            this.TOTALPRICE = 0;
+        }
+
+        public Menu(DataRow row)
+        {
+            this.ITEMID = row["ItemID"].ToString();
+            this.ITEMNAME = row["ItemName"].ToString();
+            this.QUANTITY = 1;
+            this.PRICE = (float)Convert.ToDouble(row["ItemPrice"].ToString());
+            this.TOTALPRICE = quantity * price; // (float)Convert.ToDouble(row["totalPrice"].ToString());
+        }
+
+        private string itemId;
+        public string ITEMID
+        {
+            get { return itemId; }
+            set { itemId = value; }
+        }
+
+        private string itemName;
+        public string ITEMNAME
+        {
+            get { return itemName; }
+            set { itemName = value; }
+        }
+
+        private int quantity;
+        public int QUANTITY
+        {
+            get { return quantity; }
+            set { quantity = value; }
+        }
+
+        private float price;
+        public float PRICE
+        {
+            get { return price; }
+            set { price = value; }
+        }
+
+        private float totalPrice;
+        public float TOTALPRICE
+        {
+            get { return totalPrice; }
+            set { totalPrice = value; }
+        }
+
+
+
+    }
+}
